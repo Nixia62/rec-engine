@@ -1,0 +1,68 @@
+/* File: src/components/Recommendation.css */
+
+.recommendation-container {
+  padding: 2rem;
+  max-width: 700px;
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.section {
+  margin-bottom: 2.5rem;
+}
+
+h2 {
+  font-size: 1.4rem;
+  margin-bottom: 0.75rem;
+  color: #333;
+}
+
+.quote {
+  font-style: italic;
+  font-size: 1.1rem;
+  color: #444;
+}
+
+.cover-image {
+  width: 100%;
+  max-width: 220px;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  margin-bottom: 0.6rem;
+}
+
+.media-title {
+  display: inline-block;
+  font-weight: bold;
+  color: #4e73df;
+  text-decoration: none;
+  font-size: 1.1rem;
+  margin-bottom: 0.4rem;
+}
+
+.media-title:hover {
+  text-decoration: underline;
+}
+
+.genre {
+  font-size: 0.95rem;
+  color: #666;
+  margin-top: 0.3rem;
+}
+
+.shuffle-button {
+  background-color: #4e73df;
+  color: white;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.shuffle-button:hover {
+  background-color: #375aba;
+}
