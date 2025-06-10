@@ -59,3 +59,19 @@
   padding: 1rem;
   box-sizing: border-box;
 }
+
+@media (max-width: 480px) {
+  .modal-box {
+    width: 90%;
+    padding: 1.5rem;
+  }
+
+  .mood-button {
+    font-size: 0.95rem;
+    padding: 0.5rem 1rem;
+  }
+
+  .modal-box h2 {
+    font-size: 1.3rem;
+  }
+}
