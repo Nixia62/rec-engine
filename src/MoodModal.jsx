@@ -1,8 +1,8 @@
-// File: src/components/MoodModal.jsx
+
 import React from "react";
 import "./MoodModal.css";
 
-// Updated moods array to match your recommendations data keys (first letter caps)
+
 const moods = [
   { key: "Happy", display: "Happy" },
   { key: "Good", display: "Good" },

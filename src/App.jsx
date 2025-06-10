@@ -1,9 +1,9 @@
-// File: src/App.jsx
+
 import React, { useState } from "react";
-// Fix the import paths - remove .jsx extensions and ensure correct casing
+
 import MoodModal from "./MoodModal";
 import Recommendation from "./Recommendation";
-import recommendations from "./recommendations"; // Moved to src root based on your file structure
+import recommendations from "./recommendations";
 import "./App.css";
 
 function App() {
@@ -13,7 +13,6 @@ function App() {
   const [movie, setMovie] = useState({});
 
   const generateRecommendation = (mood) => {
-    // Add error checking for mood existence
     if (!recommendations || !recommendations[mood]) {
       console.error(`Mood "${mood}" not found in recommendations`);
       return;
@@ -21,7 +20,7 @@ function App() {
 
     const moodData = recommendations[mood];
 
-    // Add safety checks for empty arrays
+  
     if (!moodData.quotes || moodData.quotes.length === 0) {
       console.error(`No quotes found for mood: ${mood}`);
       setQuote("Stay positive!");
