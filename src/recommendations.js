@@ -1,17 +1,17 @@
 const recommendations = {
   Happy: {
     quotes: [
-      "Let your laughter light up the day.",
+      "Let your laughter light up the day :3",
       "Happiness is the sunshine you carry inside.",
       "Dance with the breeze, sing with the trees.",
-      "Every moment is a reason to smile.",
+      "Every moment is a reason to smile.(just dont overdo it or u might end up in pysch ward)",
       "Let your heart skip with delight.",
       "Celebrate the little victories.",
-      "Share your smile; it’s contagious.",
+      "Share your smile, it’s contagious.",
       "Life sparkles when you do.",
-      "Let happiness be your favorite habit.",
+      "Let happiness be your favorite habit.(impossible)",
       "Bright days are made by bright minds.",
-      "Chase dreams with a full heart.",
+      "Chase dreams with a full heart <3.",
       "Good vibes are your superpower.",
       "Choose joy, again and again.",
       "Let your spirit soar above the clouds.",
@@ -73,7 +73,6 @@ const recommendations = {
       "You’re exactly where you need to be.",
       "Let contentment fill your cup.",
       "Every step forward is a step worth celebrating.",
-      "Breathe in calm, exhale gratitude.",
       "Let your mind rest in the present.",
       "You are enough, just as you are.",
       "Simple joys make the best memories.",
@@ -135,16 +134,16 @@ const recommendations = {
 },
 Sad: {
     quotes: [
-      "It’s okay to feel down; brighter days are coming.",
+      "It’s okay to feel down, brighter days are coming.",
       "Even the darkest night ends with dawn.",
-      "You are stronger than this moment",
+      "You are stronger than this moment (DEFINITELY)",
       "Let your heart rest,healing takes time.",
       "Storms help you appreciate the sunshine.",
-      "Gentle thoughts for a heavy heart.",
+      "Gentle thoughts for a heavy heart.(AND HUGS)",
       "Let yourself feel, and let yourself heal.",
       "Every tear is a step toward healing.",
       "You matter, even on your hardest days.",
-      "Hold on; hope is quietly growing.",
+      "Hold on hope is quietly growing.",
       "Let comfort find you in small things.",
       "Your feelings are valid and important.",
       "This too shall pass.",
@@ -222,7 +221,8 @@ Sad: {
       "Let tomorrow bring a softer day.",
       "YOU NEED EPIGAMIA CHOCOLATE MILK",
       "Sending hugs🫂",
-      "maybe u should take out your tarot cards"
+      "maybe u should take out your tarot cards",
+      "YOU ARE APPRECIATED <3"
 
     ],
     songs: [
@@ -272,11 +272,11 @@ Sad: {
   Mad: {
     quotes: [
       "Let your anger fuel positive change.",
-      "Breathe deep; you are bigger than your frustration.",
+      "Breathe deep, you are bigger than your frustration.",
       "Channel your fire into something good.",
       "Let your voice be strong and kind.",
       "You have the power to choose your response.",
-      "Anger is energy—transform it into action.",
+      "Anger is energy,transform it into action.(kill that oldie in front of ur balcony)",
       "Let calm be your comeback.",
       "You control the storm within.",
       "Pause, breathe, and rise above.",
