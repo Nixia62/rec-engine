@@ -314,28 +314,190 @@ Sad: {
       { title: "Daechwita – Agust D", cover: "./coverimages/agustd2.png", link: "https://open.spotify.com/track/0JKGe340YJwfDrpXqPQ8sw?si=d754ad79bb064ec9" }
     ],
     movies: [
-      { title: "Mad Max: Fury Road", genre: "Action/Adventure/Sci-Fi", link: "https://myflixerz.to/movie/mad-max-fury-road-19677" },
-      { title: "John Wick", genre: "Action/Thriller", link: "https://myflixerz.to/movie/john-wick-19789" },
-      { title: "Inception", genre: "Action/Sci-Fi/Thriller", link: "https://myflixerz.to/movie/inception-19764" },
-      { title: "Django Unchained", genre: "Western/Drama", link: "https://myflixerz.to/movie/django-unchained-19493" },
-      { title: "The Dark Knight", genre: "Action/Crime/Drama", link: "https://myflixerz.to/movie/the-dark-knight-19752" },
-      { title: "The Revenant", genre: "Adventure/Drama/Thriller", link: "https://myflixerz.to/movie/the-revenant-19646" },
-      { title: "Sicario", genre: "Action/Crime/Drama", link: "https://myflixerz.to/movie/sicario-19318" },
-      { title: "Fight Club", genre: "Drama/Thriller", link: "https://myflixerz.to/movie/fight-club-19651" },
-      { title: "The Bourne Ultimatum", genre: "Action/Thriller", link: "https://myflixerz.to/movie/the-bourne-ultimatum-19151" },
-      { title: "Prisoners", genre: "Crime/Drama/Thriller", link: "https://myflixerz.to/movie/prisoners-19186" },
-      { title: "No Country for Old Men", genre: "Crime/Drama/Thriller", link: "https://myflixerz.to/movie/no-country-for-old-men-19192" },
-      { title: "The Equalizer", genre: "Action/Crime/Thriller", link: "https://myflixerz.to/movie/the-equalizer-19688" },
-      { title: "Edge of Tomorrow", genre: "Action/Sci-Fi", link: "https://myflixerz.to/movie/edge-of-tomorrow-19535" },
-      { title: "Looper", genre: "Action/Sci-Fi/Thriller", link: "https://myflixerz.to/movie/looper-18823" },
-      { title: "Drive", genre: "Crime/Drama", link: "https://myflixerz.to/movie/drive-19145" },
-      { title: "Deadpool", genre: "Action/Comedy", link: "https://myflixerz.to/movie/deadpool-19694" },
-      { title: "Kingsman: The Secret Service", genre: "Action/Adventure/Comedy", link: "https://myflixerz.to/movie/kingsman-the-secret-service-19542" },
-      { title: "Guardians of the Galaxy", genre: "Action/Adventure/Comedy", link: "https://myflixerz.to/movie/guardians-of-the-galaxy-19781" },
-      { title: "Logan", genre: "Action/Drama/Sci-Fi", link: "https://myflixerz.to/movie/logan-19754" },
-      { title: "Black Panther", genre: "Action/Adventure/Sci-Fi", link: "https://myflixerz.to/movie/black-panther-19797" }
+      { title: "Jennifers Body", genre: "Comedy/Horror", link: "https://myflixerz.to/movie/jennifers-body-18190" },
+      { title: "Peppermint", genre: "Action/Thriller/Drama", link: "https://myflixerz.to/movie/peppermint-19704" },
+      { title: "Atomic Blonde", genre: "Action/Mystery/Thriller", link: "https://myflixerz.to/movie/atomic-blonde-19332" },
+      { title: "The Long Kiss Goodnight", genre: "Crime/Action/Mystery/Thriller", link: "https://myflixerz.to/movie/the-long-kiss-goodnight-17200" },
+      { title: "Kill Bill (Vol 1)", genre: "Action/Crime", link: "https://myflixerz.to/movie/kill-bill-vol-1-19131" },
+      { title: "Kill Bill (Vol 2)", genre: "Action/Crime/Thriller", link: "https://myflixerz.to/movie/kill-bill-vol-2-18862" },
+      { title: "The Favourite", genre: "Drama/History/Comedy", link: "https://myflixerz.to/movie/the-favourite-19833" },
+      { title: "Gone Girl", genre: "Mystery/Thriller/Drama", link: "https://myflixerz.to/movie/gone-girl-19717" },
+      { title: "Hard Candy", genre: "Drama/Thriller", link: "https://myflixerz.to/movie/hard-candy-17402" },
+      { title: "Thoroughbreds", genre: "Thriller/Drama", link: "https://myflixerz.to/movie/thoroughbreds-16554" },
+      { title: "Ready or Not", genre: "Horror/Comedy/Thriller/Mystery", link: "https://myflixerz.to/movie/ready-or-not-45352" },
+      { title: "A Vigilante", genre: "Thriller/Drama", link: "https://myflixerz.to/movie/a-vigilante-14489" },
+      { title: "Little Women", genre: "Comedy/Romance", link: "https://myflixerz.to/movie/little-women-41704" },
+      { title: "Even lambs have teeth", genre: "Horror/Thriller", link: "https://myflixerz.to/movie/even-lambs-have-teeth-55020" },
+      { title: "The Nightingale", genre: "Drama/Adventure/Thriller", link: "https://myflixerz.to/movie/the-nightingale-6360" },
+      { title: "Ballerina", genre: "Action/Crime/Thriller", link: "https://myflixerz.to/movie/ballerina-101179" },
+      { title: "", genre: "", link: "" },
+      { title: "", genre: "", link: "" },
+      { title: "", genre: "", link: "" },
+      { title: "", genre: "", link: "" }
+    ]
+  },
+  "really sad": {
+    quotes: ["U should really get into detective work!!!!",
+      "How'd you even find this?! You're a certified seeker.",
+      "You nosy lil explorer",
+      "Wait—how did you find this?",
+      "You clicked the void and the void clicked back.",
+      "Give thyself a cookie, mighty adventurer",
+      "DAMN U FOUND THIS?? UR REWARD IS BULLY NISH PASS",
+      "Honestly, i didn’t think anyone would find this.",
+      
+
+    ],
+    songs: [],
+    movies: [
+      {
+        title: "Run-Jin Ep 1",
+        link: "https://youtu.be/NJhoWnlRECw?si=k3vdWnyEOeGAlidN",
+      },
+      {
+        title: "Run-Jin Ep 2",
+        link: "https://youtu.be/ybBPvd5Qt_M?si=yRCMQvJMyCgyhgkS",
+      },
+      {
+        title: "Run-Jin Ep 3",
+        link: "https://youtu.be/zm42SXCpuSo?si=thYRFTQy2zBLmpp-",
+      },
+      {
+        title: "Run-Jin Ep 4",
+        link: "https://youtu.be/JliAZvhJpl8?si=JGiJpJaJyvnXflsO",
+      },
+      {
+        title: "Run-Jin Ep 5",
+        link: "https://youtu.be/v5rUGagE910?si=ywj8tBi8vGgjguVm",
+      },
+      {
+        title: "Run-Jin Ep 6",
+        link: "https://youtu.be/0uoVYPw4hf4?si=xEius8agHV2J5CUQ",
+      },
+      {
+        title: "Run-Jin Ep 7",
+        link: "https://youtu.be/HjF32v4uFXw?si=xBtfFm52n9i-vfb3",
+      },
+      {
+        title: "Run-Jin Ep 8",
+        link: "https://youtu.be/Jvn4PtnzX44?si=wmw3lM0w1wLX4jnz",
+      },
+      {
+        title: "Run-Jin Ep 9",
+        link: "https://youtu.be/ytaopkxZUmU?si=ju3tBXkkUaSH20tU",
+      },
+      {
+        title: "Run-Jin Ep 10",
+        link: "https://youtu.be/o799SNn4eTU?si=ZC-THi1uAjjs2y_2",
+      },
+      {
+        title: "Run-Jin Ep 11",
+        link: "https://youtu.be/Xozj294ILP8?si=Q9VYZVWNJ0aAKxis",
+      },
+      {
+        title: "Run-Jin Ep 12",
+        link: "https://youtu.be/na6LvaQhCQk?si=VLNuqZsUNr0D5lwS",
+      },
+      {
+        title: "Run-Jin Ep 13",
+        link: "https://youtu.be/Stwau2ND_fo?si=-vY9zRtWl342cD0l",
+      },
+      {
+        title: "Run-Jin Ep 14",
+        link: "https://youtu.be/EzJaR8QL0q4?si=SMBJdWqwJPtRVVL2",
+      },
+      {
+        title: "Run-Jin Ep 15",
+        link: "https://youtu.be/SBjbstFEYtA?si=pnoICdbiduVGp6du",
+      },
+      {
+        title: "Run-Jin Ep 16",
+        link: "https://youtu.be/nnO1o6TYhaM?si=2y40v4sYdQ_aV03t",
+      },
+      {
+        title: "Run-Jin Ep 17",
+        link: "https://youtu.be/whJJzrKE65g?si=fMuRHP-LqK2WST-Q",
+      },
+      {
+        title: "Run-Jin Ep 18",
+        link: "https://youtu.be/D0HRrxipY_Y?si=6n-atoT0qcpn660X",
+      },
+      {
+        title: "Run-Jin Ep 19",
+        link: "https://youtu.be/ySb4CteETSk?si=hXBeBsk4SG2xEGRH",
+      },
+      {
+        title: "Run-Jin Ep 20",
+        link: "https://youtu.be/a3sNjokvUI4?si=VS9PVpOC6tbgGhsL",
+      },
+      {
+        title: "Run-Jin Ep 21",
+        link: "https://youtu.be/tweKMEEFYks?si=uYij3PPRAJEY7JVL",
+      },
+      {
+        title: "Run-Jin Ep 22",
+        link: "https://youtu.be/N6SBPaCYhV4?si=Epj9yK3t1XyZdNqS",
+      },
+      {
+        title: "Run-Jin Ep 23",
+        link: "https://youtu.be/XFfu0mjKW0k?si=ubimFs91bBtWqVWY",
+      },
+      {
+        title: "Run-Jin Ep 24",
+        link: "https://youtu.be/A2oK2xPvJV0?si=NiNuwRxRc4KOlDwq",
+      },
+      {
+        title: "Run-Jin Ep 25",
+        link: "https://youtu.be/CMXCZAJR1aU?si=FmGIVHP4VxZ_Y890",
+      },
+      {
+        title: "Run-Jin Ep 26",
+        link: "https://youtu.be/H5K-tSuTzyE?si=XFEtV-aKDGsLPGZp",
+      },
+      {
+        title: "Run-Jin Ep 27",
+        link: "https://youtu.be/yLnlO2PP4yA?si=kyB7fwCYr05iUR2i",
+      },
+      {
+        title: "Run-Jin Ep 28",
+        link: "https://youtu.be/4-bNoHb1zko?si=4zwELFXmb0gmizds",
+      },
+      {
+        title: "Run-Jin Ep 29",
+        link: "https://youtu.be/PGNkMjQmNc0?si=b3xRECHR_OnU6zvn",
+      },
+            {
+        title: "Run-Jin Ep 30",
+        link: "https://youtu.be/0_bkdqBvEjc?si=ixcEyk315MOdRJJx",
+      },
+      {
+        title: "Run-Jin Ep 31",
+        link: "https://youtu.be/6C5EkKlAJAY?si=Uzv23GK1zaMNbjOe",
+      },
+      {
+        title: "Run-Jin Ep 32",
+        link: "https://youtu.be/0k3BAYr-bdY?si=sq-m3RwVo31NvPLO",
+      },
+      {
+        title: "Run-Jin Ep 33",
+        link: "https://youtu.be/Gu5BkUji4HA?si=gZhL1kbpirxXoeLl",
+      },
+      {
+        title: "Run-Jin Ep 34",
+        link: "https://youtu.be/YLT3ZeuJMvE?si=llz_Wo4velSpz8Td",
+      },
+      {
+        title: "Run-Jin Ep 35",
+        link: "https://youtu.be/zk7DO9hhd7I?si=34oa6euAqkTD9rZ8",
+      },
+      {
+        title: "Run-Jin Ep 36",
+        link: "https://youtu.be/rhS2zJPgE24?si=gw42uNpHOPELuo6Q",
+      },
+
     ]
   }
+
 
 };
 
