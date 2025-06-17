@@ -161,11 +161,30 @@ h2 {
   padding: 30px;
   border-radius: 12px;
   text-align: center;
-  max-width: 400px;
+  max-width: 600px;
+  width: 90%;
+  max-height: 90vh;
+  overflow-y: auto;
   box-shadow: 0 0 20px rgba(0,0,0,0.3);
   position: relative;
+  font-family: 'Nunito', sans-serif;
 }
 
+.secret-modal-content h2 {
+  font-size: 1.6rem;
+  margin-bottom: 10px;
+}
+
+.secret-modal-content h3 {
+  font-size: 1.2rem;
+  margin-top: 15px;
+}
+
+.secret-modal-content .quote {
+  font-style: italic;
+  color: #444;
+  margin-bottom: 15px;
+}
 
 .close-btn {
   position: absolute;
@@ -174,7 +193,42 @@ h2 {
   font-size: 20px;
   font-weight: bold;
   cursor: pointer;
+  color: #555;
 }
+
+/* GOATED BUTTON */
+.goated-btn {
+  background-color: #111;
+  color: #fff;
+  padding: 10px 18px;
+  border: none;
+  border-radius: 8px;
+  margin-top: 10px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.goated-btn:hover {
+  background-color: #444;
+}
+
+
+.reasons-list {
+  list-style-type: none;
+  padding-left: 0;
+  margin-top: 20px;
+  max-height: 300px;
+  overflow-y: auto;
+  text-align: left;
+}
+
+.reasons-list li {
+  padding: 8px 12px;
+  border-bottom: 1px dashed #ccc;
+  font-size: 1rem;
+  color: #333;
+}
+
 
 @media (max-width: 768px) {
   .secret-modal-content {
@@ -213,5 +267,29 @@ h2 {
   .invisible-trigger {
     width: 50px;
     height: 50px;
+  }
+}
+
+@media (max-width: 768px) {
+  .goated-btn {
+    width: 100%;
+    padding: 0.8rem;
+    font-size: 1rem;
+    margin-top: 1rem;
+  }
+
+  .reasons-list {
+    max-height: 300px;
+    overflow-y: auto;
+    padding-left: 0;
+    list-style-type: none;
+    margin-top: 1rem;
+    text-align: left;
+  }
+
+  .reasons-list li {
+    padding: 0.5rem 0.75rem;
+    border-bottom: 1px solid #eee;
+    font-size: 0.95rem;
   }
 }
